@@ -39,6 +39,8 @@
 </div>
 
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/GoSouza/GoSouza/output/snake-dark.svg">
@@ -49,4 +51,6 @@
   <img alt="github contribution snake animation"
        src="https://raw.githubusercontent.com/GoSouza/GoSouza/output/snake.svg">
 </picture>
+
+</div>
 
