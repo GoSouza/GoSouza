@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/gosouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/GoSouza/GoSouza/output/snake-dark.svg">
@@ -49,4 +49,4 @@
   <img alt="github contribution snake animation"
        src="https://raw.githubusercontent.com/GoSouza/GoSouza/output/snake.svg">
 </picture>
--->
+
