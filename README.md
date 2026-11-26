@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&random=false&width=520&height=45&lines=Ol%C3%A1%2C%20eu%20sou%20Gerson%20Souza!%20%F0%9F%92%BB%F0%9F%9A%80;Desenvolvedor%20Full%20Stack%20Jr" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&random=false&width=520&height=45&lines=Ol%C3%A1%2C%20eu%20sou%20Gerson%20Souza!%20%F0%9F%92%BB%F0%9F%9A%80;Bem%20Vindo!%20" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
- Bem Vindo!
+ 
 🔭 Sou desenvolvedor Full Stack Jr, entusiasta em desenvolver soluções tecnológicas
 
 💻 Trabalho com aplicações web, mobile, cloud e bancos de dados
