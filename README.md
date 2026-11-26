@@ -12,7 +12,7 @@
 
 📍 Santa Maria, RS - Brasil
 
-😄 Pronomes: Ele/Dele
+
 </div>
 
 <!--
